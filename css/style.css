@@ -1,3 +1,22 @@
 * {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title {
+    font-size: 2.0em;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.image-rounded {
+    border-radius: 50%;
+    min-height: 10px;
+    min-width: 10px;
+    max-width: 150px;
+    max-height: 150px;
 }
