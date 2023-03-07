@@ -10,3 +10,7 @@
 - image presentation
 - text of presentation
 - icon for the page
+
+## vertion 1.1.1
+
+- solution for js
