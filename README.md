@@ -1,5 +1,5 @@
 # PWA
 
-## Vertion 1.0.0
+## Vertion 1.0.1
 
-- Create index html
+- Cambio de diseño
