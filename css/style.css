@@ -28,6 +28,7 @@
     min-width: 10px;
     max-width: 320px;
     max-height: 320px;
+    margin: 10px;
 }
 
 .container-text {

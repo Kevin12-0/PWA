@@ -1,0 +1,12 @@
+{
+    "name": "Portafolio digital",
+    "short_name": "Portafolio",
+    "description": "Porstafolio de evidencias para UTEC",
+    "icons": [
+        {
+            "src":"images/icon.ico",
+            "sizes":"72z72",
+            "type":"image/ico"
+        }
+    ]
+}

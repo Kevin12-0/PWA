@@ -18,3 +18,7 @@
 ## Vertion 1.1.2
 
 - image for presentation and description
+
+## Vertion 1.1.3 ACTUAL
+
+- Manifest basic
