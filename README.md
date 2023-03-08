@@ -14,3 +14,7 @@
 ## vertion 1.1.1
 
 - solution for js
+
+## Vertion 1.1.2
+
+- image for presentation and description
