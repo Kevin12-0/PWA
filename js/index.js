@@ -24,10 +24,6 @@ self.addEventListener("fetch", event => {
     event.respondWith(cacheAndReturnRequest());
 });
 
-openFileButton.addEventListener("click", async () => {
-    const fileHandles = await window.showOpenFilePicker();
-});
-
 if ("serviceWorker" in navigator) {
     navigator.serviceWorker.register("../serviceworker.js")
     .then(registration => {
