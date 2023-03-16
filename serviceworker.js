@@ -6,7 +6,7 @@ const urlsToCache = [
 self.addEventListener("install", installEvent => {
     installEvent.waitUntil(
         caches.open(cache_name).then(cache => {
-            cache.addAll(assets);
+            cache.addAll(urlsToCache);
         })
     );
 });
