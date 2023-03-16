@@ -27,3 +27,13 @@ self.addEventListener("fetch", event => {
 openFileButton.addEventListener("click", async () => {
     const fileHandles = await window.showOpenFilePicker();
 });
+
+if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("../serviceworker.js")
+    .then(registration => {
+        console.log("service worker registred: ", registration);
+    })
+    .catch(error => {
+        console.error("service worker registration failed:", error);
+    });
+}
