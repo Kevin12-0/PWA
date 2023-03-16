@@ -1,6 +1,6 @@
 const cache_name = "pwa-cv-v1";
 const urlsToCache = [
-    '/', '/js/index.js'
+    '/', '/js/index.js',"/index.html"
 ];
 
 self.addEventListener("install", event => {
