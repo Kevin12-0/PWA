@@ -1,12 +1,45 @@
 {
-    "name": "Portafolio digital",
-    "short_name": "Portafolio",
-    "description": "Porstafolio de evidencias para UTEC",
-    "icons": [
+    "name": "Dev'Coffee",
+    "short_name": "DevCoffee",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary",
+    "icons": [{
+            "src": "/images/icons/icon-72x72.jfif",
+            "type": "image/jfif",
+            "sizes": "72x72"
+        },
         {
-            "src":"images/icon.ico",
-            "sizes":"72z72",
-            "type":"image/ico"
+            "src": "/images/icons/icon-96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/images/icons/icon-144x144.jpg",
+            "type": "image/jpg",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/images/icons/icon-152x152.jpg",
+            "type": "image/jpg",
+            "sizes": "152x152"
+        },
+        {
+            "src": "/images/icons/icon-192x192.jpg",
+            "type": "image/jpg",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/images/icons/icon-384x384.webp",
+            "type": "image/webp",
+            "sizes": "384x384"
+        },
+        {
+            "src": "/images/icons/icon-512x512.webp",
+            "type": "image/webp",
+            "sizes": "512x512"
         }
     ]
 }
