@@ -17,11 +17,6 @@
             "sizes": "96x96"
         },
         {
-            "src": "/images/icons/icon-144x144.jpg",
-            "type": "image/jpg",
-            "sizes": "144x144"
-        },
-        {
             "src": "/images/icons/icon-152x152.jpg",
             "type": "image/jpg",
             "sizes": "152x152"
