@@ -7,34 +7,9 @@
     "theme_color": "#db4938",
     "orientation": "portrait-primary",
     "icons": [{
-            "src": "/images/icons/icon-72x72.jfif",
-            "type": "image/jfif",
+            "src": "/images/icons/icon.ico",
+            "type": "image/ico",
             "sizes": "72x72"
-        },
-        {
-            "src": "/images/icons/icon-96x96.png",
-            "type": "image/png",
-            "sizes": "96x96"
-        },
-        {
-            "src": "/images/icons/icon-152x152.jpg",
-            "type": "image/jpg",
-            "sizes": "152x152"
-        },
-        {
-            "src": "/images/icons/icon-192x192.jpg",
-            "type": "image/jpg",
-            "sizes": "192x192"
-        },
-        {
-            "src": "/images/icons/icon-384x384.webp",
-            "type": "image/webp",
-            "sizes": "384x384"
-        },
-        {
-            "src": "/images/icons/icon-512x512.webp",
-            "type": "image/webp",
-            "sizes": "512x512"
         }
     ]
 }
